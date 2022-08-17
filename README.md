@@ -1,5 +1,5 @@
 #
-<h1 align="left">Hola a todos!!</h1>
+<h1 align="center">console.log(Hola a todos!!)</h1>
 
 <h4> Me llamo Ladislao, soy un desarrollador Full-Stack Developer Jr.</h4>
 <h4>Me considero una persona responsable, dinámica y creativa, con facilidad de adaptación. A inicios del año 2022 comencé a dedicarme al 100% a estudiar para Full Stack Web Developer, estudiando JavaScript, además de otras tecnologías del Frontend como React y Redux, para el Backend tecnologías como Node, Express y Sequelize y metodologías ágiles como SCRUM.</h4>
